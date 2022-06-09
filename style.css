@@ -1,0 +1,16 @@
+.feedEkList{width:450px; list-style:none outside none;background-color:#FDF2E7; border:3px solid #D3CAD7; padding:4px 6px; color:#3E3E3E;}
+.feedEkList li{border-bottom:3px solid red; padding:20px;}
+.feedEkList li:last-child{border-bottom:none;}
+.itemTitle a{font-weight:bold; color:#4EBAFF; text-decoration:none }
+.itemTitle a:hover{ text-decoration:underline }
+.itemDate{font-size:11px;color:#AAAAAA;}
+
+#example { color:red;font-weight: bold; font-size:40px;cursor: pointer;text-align: center;font-family:Fantasy}
+
+#divRss {
+  align:center;margin-left:32%;
+  
+}
+body {
+  color:red;
+}
